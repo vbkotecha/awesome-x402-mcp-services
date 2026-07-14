@@ -5,6 +5,7 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Table of Contents
 
 - [Search](#search)
+- [Financial Data & Market Intelligence](#financial-data--market-intelligence)
 
 ### Helpful Links
 
@@ -15,6 +16,10 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Search
 
 - [Recall Kitchen](https://recallkitchen.com/docs/#mcp) offers search for product, food, and vehicle recalls.
+
+### Financial Data & Market Intelligence
+
+- [AgentServices](https://agentservices.to/mcp) — 37 MCP tools for crypto market data (prices, DeFi yields, on-chain analytics), traditional finance (stocks, FX, commodities, SEC filings), market intelligence (sentiment, deep research, portfolio analysis), and AI inference. 41 of 53 endpoints are x402-paid at $0.001–$0.01/call in USDC on Base. MCP v5.3.0, protocol 2026-07-28. x402 v2 compliant.
 
 ## Developers
 
